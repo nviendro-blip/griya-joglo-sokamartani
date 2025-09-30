@@ -96,7 +96,7 @@ const TargetMarket = () => {
 
               <div className="text-center">
                 <a 
-                  href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20booking%20unit%20Griya%20Alam%20Sokamartani"
+                  href="https://wa.me/6285292249776?text=Halo,%20saya%20ingin%20booking%20unit%20Griya%20Alam%20Sokamartani"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center px-10 py-5 bg-primary hover:bg-primary-hover text-primary-foreground font-bold text-lg rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl"

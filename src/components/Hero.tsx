@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, MapPin } from "lucide-react";
-import heroImage from "@/assets/hero-joglo.jpg";
+import heroImage from "@/assets/36-1.png";
 
 const Hero = () => {
   const handleBooking = () => {
@@ -30,7 +30,7 @@ const Hero = () => {
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
             Miliki Rumah{" "}
             <span className="text-primary">Joglo Modern</span>{" "}
-            Pertama Anda di Tempel Sleman
+            Pertama Anda di Tempel Sleman 
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed">

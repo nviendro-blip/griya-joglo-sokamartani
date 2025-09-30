@@ -1,4 +1,4 @@
-import heroImage from "@/assets/hero-joglo.jpg";
+import heroImage from "@/assets/36-new.png";
 import familyImage from "@/assets/family-joglo.jpg";
 import aerialImage from "@/assets/sleman-aerial.jpg";
 
@@ -65,7 +65,7 @@ const Gallery = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20survei%20lokasi%20Griya%20Alam%20Sokamartani"
+                href="https://wa.me/6285292249776?text=Halo,%20saya%20ingin%20survei%20lokasi%20Griya%20Alam%20Sokamartani"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 bg-primary hover:bg-primary-hover text-primary-foreground font-semibold rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl"

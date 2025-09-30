@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 const Footer = () => {
   const handleWhatsApp = () => {
-    window.open("https://wa.me/6281234567890?text=Halo,%20saya%20tertarik%20dengan%20Griya%20Alam%20Sokamartani", "_blank");
+    window.open("https://wa.me/6285292249776?text=Halo,%20saya%20tertarik%20dengan%20Griya%20Alam%20Sokamartani", "_blank");
   };
 
   return (
@@ -70,8 +70,8 @@ const Footer = () => {
                 <Phone className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-semibold mb-1">Telepon / WhatsApp</p>
-                  <a href="tel:+6281234567890" className="text-background/80 text-sm hover:text-primary transition-colors">
-                    +62 812-3456-7890
+                  <a href="tel:+6285292249776" className="text-background/80 text-sm hover:text-primary transition-colors">
+                    +62 852-9224-9776
                   </a>
                 </div>
               </div>
@@ -79,8 +79,8 @@ const Footer = () => {
                 <Mail className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-semibold mb-1">Email</p>
-                  <a href="mailto:info@griyaalam.com" className="text-background/80 text-sm hover:text-primary transition-colors">
-                    info@griyaalam.com
+                  <a href="" className="text-background/80 text-sm hover:text-primary transition-colors">
+                    info
                   </a>
                 </div>
               </div>

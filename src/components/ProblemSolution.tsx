@@ -57,7 +57,7 @@ const ProblemSolution = () => {
               <ul className="space-y-4">
                 <li className="flex items-start gap-3">
                   <CheckCircle className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
-                  <span className="font-medium">Harga terjangkau dengan cicilan mulai Rp 3 jutaan/bulan</span>
+                  <span className="font-medium">Harga terjangkau mulai harga 300jtan</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <CheckCircle className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />

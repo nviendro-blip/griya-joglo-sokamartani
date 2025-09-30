@@ -5,25 +5,25 @@ const uspItems = [
   {
     icon: Wallet,
     title: "Harga Terjangkau",
-    description: "Cicilan mulai Rp3 jutaan/bulan, cocok untuk keluarga muda",
+    description: "Harga mulai Rp300 jutaan, cocok untuk keluarga muda",
     delay: "0s"
   },
   {
     icon: Home,
     title: "Desain Joglo Artistik",
-    description: "Rumah etnik Jawa modern dengan sentuhan artistik yang elegan",
+    description: "Rumah etnik Jawa modern dengan sentuhan artistik yang elegan dan tradisional",
     delay: "0.1s"
   },
   {
     icon: Trees,
     title: "Tanah Luas & Asri",
-    description: "Halaman luas untuk anak bermain dan berkebun di udara sejuk Sleman",
+    description: "Halaman luas untuk anak bermain dan berkebun di udara sejuk Tempel, Sleman",
     delay: "0.2s"
   },
   {
     icon: Shield,
     title: "Legalitas Aman",
-    description: "SHM dan IMB lengkap, investasi Anda terlindungi",
+    description: "SHM Atas nama pembeli lengkap, investasi Anda terlindungi",
     delay: "0.3s"
   },
   {
