@@ -4,7 +4,7 @@ import heroImage from "@/assets/36-1.png";
 
 const Hero = () => {
   const handleBooking = () => {
-    window.open("https://wa.me/6281234567890?text=Halo,%20saya%20tertarik%20dengan%20Griya%20Alam%20Sokamartani", "_blank");
+    window.open("https://wa.me/6285292249776?text=Halo,%20saya%20tertarik%20dengan%20Griya%20Alam%20Sokamartani", "_blank");
   };
 
   return (
