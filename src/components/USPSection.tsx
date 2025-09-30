@@ -44,10 +44,10 @@ const USPSection = () => {
             <span className="text-sm font-semibold text-primary">Keunggulan Griya Alam Sokamartani</span>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Mengapa Memilih Kami?
+            Mengapa Harus Memilih Kami?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Solusi hunian impian dengan berbagai keunggulan untuk keluarga Indonesia
+            Solusi hunian impian dengan berbagai keunggulan untuk keluarga bahagia
           </p>
         </div>
 
@@ -78,7 +78,7 @@ const USPSection = () => {
               </h3>
               <p className="text-lg text-muted-foreground">
                 Harga properti di Sleman terus meningkat setiap tahunnya. 
-                Amankan investasi terbaik Anda sekarang juga!
+                Amankan investasi hunian terbaik Anda sekarang juga!
               </p>
             </CardContent>
           </Card>

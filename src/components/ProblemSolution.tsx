@@ -7,10 +7,10 @@ const ProblemSolution = () => {
       <div className="container px-4">
         <div className="text-center mb-12 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Mencari Rumah Pertama Tidak Lagi Sulit
+            Mencari Rumah Sekarang Tidak Lagi Sulit
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Kami memahami tantangan keluarga muda dalam mencari hunian impian
+            Kami memahami tantangan anda dalam mencari hunian impian di Sleman Yogyakarta
           </p>
         </div>
 
@@ -22,7 +22,7 @@ const ProblemSolution = () => {
                 <div className="p-3 bg-destructive/10 rounded-lg">
                   <AlertCircle className="w-6 h-6 text-destructive" />
                 </div>
-                <h3 className="text-2xl font-bold">Tantangan Anda</h3>
+                <h3 className="text-2xl font-bold">Masalah Anda</h3>
               </div>
               <ul className="space-y-4">
                 <li className="flex items-start gap-3">
@@ -52,7 +52,7 @@ const ProblemSolution = () => {
                 <div className="p-3 bg-primary/10 rounded-lg">
                   <CheckCircle className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-2xl font-bold">Solusi Kami</h3>
+                <h3 className="text-2xl font-bold">Solusi yang kami berikan</h3>
               </div>
               <ul className="space-y-4">
                 <li className="flex items-start gap-3">

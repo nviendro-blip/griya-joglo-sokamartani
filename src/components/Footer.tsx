@@ -13,10 +13,10 @@ const Footer = () => {
         <div className="container px-4 py-16">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Wujudkan Hunian Impian Anda Sekarang
+              Miliki Hunian Impian Anda Sekarang Juga
             </h2>
             <p className="text-lg text-background/80 mb-8">
-              Tim kami siap membantu Anda menemukan rumah yang sempurna untuk keluarga
+              kami siap membantu Anda menemukan rumah yang sempurna untuk keluarga Anda
             </p>
             <Button 
               size="lg"
@@ -61,7 +61,7 @@ const Footer = () => {
                 <div>
                   <p className="font-semibold mb-1">Lokasi Proyek</p>
                   <p className="text-background/80 text-sm">
-                    Sokamartani, Tempel, Sleman<br />
+                    jln.Sokamartani, Merdikorejo, Tempel, Sleman<br />
                     Yogyakarta 55552
                   </p>
                 </div>
@@ -93,11 +93,11 @@ const Footer = () => {
             <div className="space-y-3 text-background/80">
               <div>
                 <p className="font-semibold text-background">Senin - Jumat</p>
-                <p className="text-sm">08:00 - 17:00 WIB</p>
+                <p className="text-sm">09:00 - 15:00 WIB</p>
               </div>
               <div>
                 <p className="font-semibold text-background">Sabtu - Minggu</p>
-                <p className="text-sm">09:00 - 16:00 WIB</p>
+                <p className="text-sm">09:00 - 15:00 WIB</p>
               </div>
               <div className="pt-4">
                 <p className="text-sm italic">

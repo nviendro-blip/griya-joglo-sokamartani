@@ -34,7 +34,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed">
-            Hunian etnik Jawa dengan harga terjangkau, legalitas aman, tanah luas, 
+            Hunian etnik Jawa dengan harga mulai 300jt an, legalitas SHM, Luas Tanah mulai 100meter persegi, 
             dan cicilan mulai{" "}
             <span className="font-bold text-primary">3 jutaan per bulan</span>.
           </p>
@@ -54,7 +54,7 @@ const Hero = () => {
               onClick={() => document.getElementById('gallery')?.scrollIntoView({ behavior: 'smooth' })}
               className="text-lg px-8 py-6 border-2"
             >
-              Lihat Gallery
+              Cek lokasi
             </Button>
           </div>
 

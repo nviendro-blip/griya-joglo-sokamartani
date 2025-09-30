@@ -26,10 +26,10 @@ const Gallery = () => {
       <div className="container px-4">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Rasakan Hidup Tenang dan Asri di Tempel Sleman
+            Rasakan Hidup Tenang dan Asri di Griya Alam Sokamartani
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Lingkungan nyaman dengan pemandangan indah dan udara sejuk khas Yogyakarta
+            Lingkungan nyaman dengan pemandangan indah dan udara sejuk khas Sleman Yogyakarta
           </p>
         </div>
 
@@ -58,10 +58,10 @@ const Gallery = () => {
         <div className="mt-16 max-w-4xl mx-auto">
           <div className="bg-card border-2 border-primary/20 rounded-2xl p-8 md:p-12 text-center shadow-lg">
             <h3 className="text-3xl font-bold mb-4">
-              Lihat Langsung Lokasi & Rumah Model
+              Lihat Langsung Lokasi & Dan bebas pilih Kavling
             </h3>
             <p className="text-lg text-muted-foreground mb-6">
-              Kunjungi lokasi proyek kami dan rasakan sendiri kenyamanan lingkungan Griya Alam Sokamartani
+              Kunjungi Griya Alam Sokamartani dan rasakan sendiri kenyamanan lingkungan dan udara sejuk di Tempel Sleman
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
@@ -70,7 +70,7 @@ const Gallery = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 bg-primary hover:bg-primary-hover text-primary-foreground font-semibold rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl"
               >
-                Jadwalkan Survei Lokasi
+                Jadwalkan Survei Lokasi Sekarang
               </a>
             </div>
           </div>
