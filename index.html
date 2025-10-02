@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="id">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,111 +15,26 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@lovable_dev" />
     <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
-
-    <!-- Google Tag Manager -->
-    <script>
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id=GTM-MKF9F8J';f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-MKF9F8J');
-    </script>
-    <!-- End Google Tag Manager -->
-
-    <style>
-      * { margin: 0; padding: 0; box-sizing: border-box; }
-      html, body {
-        font-family: Arial, sans-serif;
-        background: #fff;
-        color: #333;
-        -ms-overflow-style: none;
-        scrollbar-width: none;
-      }
-      html::-webkit-scrollbar { display: none; }
-
-      .hero {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        padding: 2rem 1rem;
-        background: #f9f9f9;
-      }
-      .hero img {
-        width: 100%;
-        max-width: 420px;
-        border-radius: 12px;
-        margin-bottom: 1.5rem;
-      }
-      .hero h1 {
-        font-size: clamp(1.5rem, 6vw, 2.5rem);
-        margin-bottom: 1rem;
-      }
-      .hero p {
-        font-size: clamp(1rem, 4vw, 1.25rem);
-        margin-bottom: 2rem;
-        line-height: 1.6;
-      }
-      .cta-button {
-        background: #25d366;
-        color: white;
-        padding: 1rem 2rem;
-        border-radius: 50px;
-        font-size: 1.2rem;
-        font-weight: bold;
-        text-decoration: none;
-        text-align: center;
-        display: inline-block;
-        width: 90%;
-        max-width: 320px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        transition: 0.2s;
-      }
-      .cta-button:hover { background: #20b858; }
-
-      @media (min-width: 768px) {
-        .hero { flex-direction: row; justify-content: center; text-align: left; }
-        .hero-text { max-width: 480px; margin-left: 2rem; }
-      }
-    </style>
   </head>
+  <!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id=GTM-MKF9F8J';f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MKF9F8J');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKF9F8J"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
   <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>
-      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKF9F8J"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <section class="hero">
-      <img src="https://lovable.dev/opengraph-image-p98pqg.png" alt="Rumah Joglo Modern Sleman">
-      <div class="hero-text">
-        <h1>Rumah Joglo Modern di Tempel Sleman</h1>
-        <p>Hunian etnik Jawa, harga terjangkau, legalitas aman, tanah luas, cicilan mulai 3 jutaan per bulan. Cocok untuk keluarga dan investasi masa depan.</p>
-        <a 
-          href="https://wa.me/6281234567890?text=Halo%20saya%20tertarik%20dengan%20Griya%20Alam%20Sokamartani" 
-          class="cta-button" 
-          id="whatsapp-button"
-        >
-          Hubungi via WhatsApp
-        </a>
-      </div>
-    </section>
-
-    <!-- Tracking WhatsApp CTA -->
-    <script>
-      document.getElementById("whatsapp-button").addEventListener("click", function() {
-        window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({
-          event: "whatsapp_click",
-          category: "CTA",
-          label: "WhatsApp Button",
-          value: 1
-        });
-        console.log("Event whatsapp_click terkirim ke dataLayer ✅");
-      });
-    </script>
-
+    <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
